@@ -10,9 +10,9 @@ package bamboo
 
 var firstConsonantSeqs = []string{
 	"b d đ g gh m n nh p ph r s t tr v z",
-	"c h k kh qu th",
+	"c h k kh kr qu th",
 	"ch gi l ng ngh x",
-	"đ l",
+	"b đ l",
 	"h",
 }
 
@@ -22,8 +22,8 @@ var vowelSeqs = []string{
 	"â ă e o oo ô ơ oe u ư uâ uô ươ",
 	"oă",
 	"uơ",
-	"ai ao au âu ay ây eo êu ia iêu iu oai oao oay oeo oi ôi ơi ưa uây ui ưi uôi ươi ươu ưu uya uyu yêu",
-	"ă",
+	"ai ao au âu ay ây eo êu ia iêu iu oai oao oay oeo oi ôi ơi ưa uây ui ưi uôi ươi ươu ưu uya uyu uêu yêu",
+	"ă u",
 	"i",
 }
 
